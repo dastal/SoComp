@@ -1,2 +1,2 @@
 # SoComp
-For solving SoComp Tasks
+Social Computing solutions
